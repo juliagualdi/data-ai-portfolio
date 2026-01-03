@@ -16,10 +16,11 @@ Focuses on understanding:
 
 ---
 
-### 🔹 Linear & Logistic Regression
+### 🔹 Regression
 Implementation and analysis of:
 - Linear Regression  
-- Logistic Regression  
+- Polinomial Regression
+- Multivariate Regression
 
 Includes:
 - Mathematical intuition  
